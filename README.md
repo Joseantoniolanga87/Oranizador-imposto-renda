@@ -17,3 +17,14 @@ Este projeto foi desenvolvido como parte do desafio da [DIO.me](https://www.dio.
 - Fórmulas personalizadas
 - Formatação condicional
 - Hiperlinks para navegação
+## 🎯 Objetivo
+
+Aplicar, de forma prática, os conhecimentos adquiridos durante o curso e desenvolver uma ferramenta funcional e intuitiva para controle financeiro e organização de dados para IR.
+
+## 📁 Arquivo Disponível
+
+📂 `Projeto 2_SYSTEM BY JOSE LANGA.xlsx` – ferramenta Excel pronta para uso.
+
+## 📜 Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
